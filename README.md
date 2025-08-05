@@ -7,6 +7,9 @@ Welcome to our SQL-powered analysis of the Music Store database! This project ex
 By leveraging SQL queries, we aim to uncover meaningful insights and answer key business questions related to the music store's operations. Our objective is to gain a deeper understanding of the data to support smarter, data-driven decision-making in the music retail space. Come along as we uncover the story hidden within the numbers!
 
 Tech Stack Used
+
 SQL Server
+
 SQL Workbench
+
 Database Schema: Music Store Database
